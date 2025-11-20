@@ -28,6 +28,16 @@ Alongside my academic and project work, I collaborate as a partner on selective 
 - **SafeStayIstanbul** — A modern, responsive hostel information website  
   Built and deployed collaboratively on **Vercel**, with attention to UI consistency and clean design structure.
 
+### 🧪 **Frontend Internship (Vue.js & Nuxt.js)**
+During my internship, I worked with **Vue.js** and **Nuxt.js**, focusing on:
+- Building clean, reusable UI components  
+- Structuring scalable frontend architecture  
+- Improving user flow and responsiveness  
+- Working with page routing, layouts, and state management  
+- Enhancing UI consistency through component-based design  
+
+This experience strengthened my frontend fundamentals and improved my ability to design smooth, modern user interfaces.
+
 ### 🤝 **Team & Collaborative Projects**  
 I often take the lead on the **UI/UX and frontend** aspects of apps, ensuring that the final product not only works—but **feels right**.
 
@@ -48,7 +58,7 @@ A desktop tool for creating UML diagrams, designed with a clean workspace and in
 
 ## 🧰 **What I Work With**
 
-**UI & Frontend:** Flutter, React, responsive design, design systems  
+**UI & Frontend:** Flutter, React, Vue.js, Nuxt.js, responsive design, design systems  
 **Backend:** FastAPI, NestJS (foundational experience)  
 **Desktop Apps:** JavaFX, visual layout tools  
 **Tools & Concepts:** Figma, component patterns, cross-platform design, clean architecture  
